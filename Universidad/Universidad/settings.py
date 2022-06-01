@@ -56,7 +56,7 @@ ROOT_URLCONF = 'Universidad.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["C:/Entrega1_Rossin/Universidad/app_uni/template/"],
+        'DIRS': ["D:/Original/Programación/Coder House/códigos de clases Coderhouse/Entrega1_Rossin/Universidad/app_uni/template"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
